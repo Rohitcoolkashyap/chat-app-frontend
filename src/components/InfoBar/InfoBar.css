@@ -23,6 +23,12 @@
   margin-right: 5%;
 }
 
+.rightInnerContainer p {
+  color: white;
+  font-weight: bold;
+
+}
+
 .onlineIcon {
   margin-right: 5%;
 }
